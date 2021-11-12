@@ -13,7 +13,7 @@ minusLives = False
 win = GraphWin("Brick Breaker", 300, 600)
 win.setBackground("Black")
 
-BALL_COUNT = 3  # If we change this, the number of ball changes!
+BALL_COUNT = 1  # If we change this, the number of ball changes!
 
 class Timer:
     def __init__(self):
